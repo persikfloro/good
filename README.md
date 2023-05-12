@@ -1,6 +1,3 @@
-# Random good stuff
->_my first wiki_
-
 ## Templates
 * [Template Issue on Github](https://github.com/persikfloro/good/blob/main/template_issue.md)
 
